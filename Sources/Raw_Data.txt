@@ -1,0 +1,104 @@
+
+
+Production Work History: 2004 - 2010	Climate Theatre SF		Light and Sound, DJ 1999 - 2004	Paul Nathan Magic			Production Asst. / Roadie 1993		Radius/Palm Pictures		The Operation 1993		Multiview, Inc.			Unreleased Multimedia CD-ROM Project 1992		Jeff Edman			          Spy vs: Spy School Final Soundtrack, Foley 1992		Frozen O / A. Rostaing		Untitled/Unreleased 1991		Steve Patterson			Bombardment (Stage) Sound, light, Efx. 1990		Melissa Tromblet			Black Dahlia Project 1990		Steve Patterson			Controlled Burn Sound, light. 1990		Pander Bros.			FUSE! Total Art Onslaught 1990		Pander Bros.			Exquisite Corpse Installations and Sound. 1989		Anne Washburn Reed College	Bloode(Stage) Music 1989		Jeff Edman Reed College	Katzelmacher(Stage) Music 1988		Chel White / Jim Blashfield 	Michael Jackson, Talking Heads.Machine Song 
+
+Previous addresses:
+
+1180 Lochinvar Ave. #136
+Sunnyvale, CA 94087
+
+
+Michael Gerard
+465 Firloch APT 4
+Sunnyvale, CA 94086
+
+Education:
+DeAnza College 	2005-2006	Operating Systems Concepts, C, Advanced C, C++
+
+
+
+Office Services Supervisor, Law Offices of Fisher & Hurst; San Francisco, CA. — 1991-1994 Manager: Barbara Good -Salary: $26K
+Coordinated court Filings, deliveries, copies, desktop publishing, off site storage and exhibits. Supervised 3 employees.
+No Longer in Business as of 1998. 
+
+Support Staff Manager/Tech Support, Multivue Inc.; San Francisco, CA. — 1995-1998 
+Salary: $32,000/Yr.
+Responsibilities included hiring, scheduling, training manuals, purchasing, Coin-Op maintenance, systems administration, jukebox programming, cash control and electrical repair. Prototyped the companies first CD-ROM.
+No longer in business as of 2012.
+Direct Marketing List Manager, Response Associates; San Francisco, CA. — 1999 
+Salary: $31,000/Yr. No longer in business as of 2001.
+
+
+Technical Work History:
+1999 - 2013	Apple Computer 			Mass Storage Software QA Engineer ICT3
+
+1998 -1999	Response Associates		Direct Marketing  List Manager
+
+1993 - 1999	Multivue Inc.			IT, Support Staff Manager
+
+1991 - 1993	Law Office Fischer Hurst		Office Services Supervisor
+
+
+Experience:
+	Authored / maintained RollCall, the groups main IOKit Mass Storage discovery probe in Obj-C.
+	Authored Test Plans For SATA, Thunderbolt, USB and FireWire over the years.
+	Device Tester for iTunes initial Version
+	QA For AppleTV Mass Storage and User Experience.
+	QA Lead Thunderbolt Consumer Desktop and Mobile
+	QA Lead Port Multiplier
+
+
+Current and Previous Projects
+Freelance Consultant / Theatrical Technician SF Bay Area          Nov 2015-Oct 2016
+While a Theatrical Technician at the Great Star Theatre in San Francisco, I began a wide exploration into Freelance and Consulting. While excellent for learning new skills, the unpredictable income and clientele made accepting a sales and support position an easy choice.
+
+Guitar Center       Pro-Audio Sales & Support     San Jose, CA.   Oct 2016 - Present
+While a Theatrical Technician at the Great Star Theatre in San Francisco, I began a wide exploration into Freelance and Consulting. While excellent for learning new skills, the unpredictable income and clientele made accepting a sales and support position an easy choice.
+
+
+
+Setup / maintain MySQL DB on MacOSX Server 10.3 – 10.4
+Export and retool for PostgreSQL.
+Setup / maintain PostgreSQL DB on MacOSX Server 10.5 – 10.6
+Authored high confidence automatic bug reporter for test scripts
+
+
+Ken Newman		Provide system for automated Sound FX  for  events.
+
+
+Fa Yoeu           Sr Test Engineer	 Google    
+(408) 250-0100    fayoeu@google.com
+
+Andrew Rostaing   Senior Engineer		Apple
+(415) 297-1500    andrew@voidstar.net
+
+
+Paul Nathan       Producer 				Unusual Productions		
+(415) 407-9223    paul@firemagic.com
+
+Kai Kaahaaina     USB Engineer  		Apple
+(310) 413-3673    kaiehu@mac.com	
+
+
+Technical Lead Manager, Server and Storage Product Testing
+Derek Iverson	doi@google.com	+1 (925) 872-1734	
+
+
+Software Engineer
+Chris Severn	csevern@google.com	+1 650-253-5844(+1)	
+
+
+Manager: Srinivasa Naidu (650) 214-5523    	    
+
+Manager: Jim Seusy (408) 974-3582 	
+
+Manager: Paul Nathan (415) 407-9223	  
+
+
+
+Andrew Rostaing		Audio Engineer	 415-297-1500		andrew@voidstar.net
+Dave Forest			Quality Engineer	415-830-1120		dforest@apple.com
+Kai Kaahaaina		USB Engineer	310-413-3673		kaiehu@mac.com
+Charles Gousha		Quality Engineer	408-318-1380		gousha@mac.com
+
+Linked In:http://www.linkedin.com/pub/michael-gerard/46/631/2a7
